@@ -1,0 +1,12 @@
+{
+    "name": "cpuche/testdotenv",
+    "authors": [
+        {
+            "name": "Carlos Puche",
+            "email": "cpuche@wepa.es"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
